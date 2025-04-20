@@ -1,4 +1,7 @@
 # Project Description
+
+Title: Analyzing the Impact of Dietary Habits and Lifestyle Factors on Weight Change
+
 Diet plays a crucial role in maintaining health and longevity. A poor diet, characterized by the frequent consumption of unhealthy foods, can lead to deteriorating health outcomes. This project aims to analyze the relationship between dietary habits and weight change using a dataset from Kaggle, which includes information from 100 participants. The focus is on demographics, dietary habits, physical activity levels, and lifestyle factors to predict weight changes.
 
 Key features of the dataset include age, gender, current weight, daily caloric intake, macronutrient breakdown, sleep quality, and stress levels. The goal is to explore how these variables interact and influence weight fluctuations, providing valuable insights for researchers and practitioners in nutrition and health. The analyses conducted will encompass descriptive, inferential, and predictive techniques, including the application of neural networks.
